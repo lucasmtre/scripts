@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow directory traversal
+!*/
+
+# Track shell scripts and this file
+!*.sh
+!.gitignore
